@@ -4,6 +4,8 @@ let bag="";
         bag+= str[i];
     }
   if(bag==str){
-      console.log("Yes")
+      console.log("Yes");
+  }else{
+    console.log("No");
   }
   
